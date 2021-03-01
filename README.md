@@ -32,8 +32,14 @@ Analysis of Citi Bikes data in NYC was performed to understand any patterns that
  
  7) Number of Trips : This simple table breaks up the trips by gender and user type denoting the number of trips belonging to each category.
 
-[link to dashboard](https://public.tableau.com/profile/surekha.chandramouli#!/vizhome/CitiBikesAnalysis_16145568649490/CitiBikesStory)
+  [LINK TO DASHBOARD](https://public.tableau.com/profile/surekha.chandramouli#!/vizhome/CitiBikesAnalysis_16145568649490/CitiBikesStory)
 
+## Summary
 
+Based on all the above mentioned metrics, Citibikes bike rentals are of big demand in big cities where tourists frequent a lot and where places are close to each other making people prefer biking to taking a cab. Below are 2 additional metrics which would provide more insights to Citibikes management :
+
+1) Birth Year Analysis : Majority of the bike rentals among males and females were by people who were born after 1985. This clearly outlines the fact that renting bikes was more common among the younger generation compared to the seniors
+
+2) Top 10 start stations : The start stations were arranged in descending order based on how many strips started from this station. Pershing Square North Station had the highest number of trips originating from here
  
  
